@@ -5,6 +5,7 @@ To DO app
 
 Using Dart flutter</p> 
 Hive database</p>
+Flutter_slidable</p>
 Screens: 
 
 <p float="left">
