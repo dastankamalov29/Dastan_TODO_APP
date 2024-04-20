@@ -4,7 +4,18 @@ To DO app
 ## Getting Started
 
 Using Dart flutter</p> 
-Hive database 
+Hive database</p>
+Screens: 
+
+<p float="left">
+  <img src="first.png" width="250" /> 
+  <img src="second.png" width="200" />
+  <img src="thirt.png" width="200" />
+  
+</p>
+
+
+
 
 
 
