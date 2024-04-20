@@ -9,7 +9,7 @@ Screens:
 
 <p float="left">
   <img src="first.png" width="200" /> 
-</p>
+</n>
   <img src="second.png" width="200" />
   <img src="thirt.png" width="200" />
   
