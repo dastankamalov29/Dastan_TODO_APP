@@ -8,7 +8,8 @@ Hive database</p>
 Screens: 
 
 <p float="left">
-  <img src="first.png" width="250" /> 
+  <img src="first.png" width="200" /> 
+</p>
   <img src="second.png" width="200" />
   <img src="thirt.png" width="200" />
   
